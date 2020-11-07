@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T08:56:36.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="dA7igabpcp2gD5bLZK9P" type="github"><diagram id="Mv1jAMGZ75zrqB7ZlKB5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-07T09:00:42.639Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="BIxEPUylabDCDcAW2hva" version="13.9.2" type="github">
+  <diagram id="Mv1jAMGZ75zrqB7ZlKB5" name="第 1 页">
+    <mxGraphModel dx="1298" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="52N9cq9rxz12VBDBpTOE-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="330" y="330" width="42" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="52N9cq9rxz12VBDBpTOE-2" target="52N9cq9rxz12VBDBpTOE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="52N9cq9rxz12VBDBpTOE-2" target="52N9cq9rxz12VBDBpTOE-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-2" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;fillColor=#000000;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.electrical.miscellaneous.monocell_battery;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="52N9cq9rxz12VBDBpTOE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="286" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="286" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.84;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="52N9cq9rxz12VBDBpTOE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="286" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-5" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="52N9cq9rxz12VBDBpTOE-8" value="通电后产生周围产生磁场，将会导致开关自动下拉" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="105" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
