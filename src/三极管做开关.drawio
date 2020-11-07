@@ -1,1 +1,94 @@
-<mxfile host="app.diagrams.net" modified="2020-11-07T11:01:13.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.2" etag="u_-ZzT9fwGoR84-AfOOg" type="github"><diagram id="yH7qHg9RPvQx5JNDn6Zl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-07T13:00:56.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="CyOIo3a5gHxU6bXTGtFX" version="13.9.2" type="github">
+  <diagram id="yH7qHg9RPvQx5JNDn6Zl" name="第 1 页">
+    <mxGraphModel dx="895" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="G7uyzcNy9ClVvlWQECVc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-9" value="控制端：输入正电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-2">
+          <mxGeometry x="0.9891" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-27" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-2">
+          <mxGeometry x="-0.5247" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="G7uyzcNy9ClVvlWQECVc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="286" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="286" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-25" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-5">
+          <mxGeometry x="1" y="20" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G7uyzcNy9ClVvlWQECVc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="285.66666666666663" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.npn_transistor_1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-10" value="有电流输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-11" value="读取到正电压" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" source="G7uyzcNy9ClVvlWQECVc-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-13" value="控制端：不输入电压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-12">
+          <mxGeometry x="0.9891" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-28" value="input" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-12">
+          <mxGeometry x="-0.5023" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" source="G7uyzcNy9ClVvlWQECVc-16" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="556" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="556" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-26" value="output" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7uyzcNy9ClVvlWQECVc-14">
+          <mxGeometry x="1" y="14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="G7uyzcNy9ClVvlWQECVc-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555.6744186046512" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-16" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.npn_transistor_1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="95" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-17" value="有电流输入" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="G7uyzcNy9ClVvlWQECVc-18" value="读取到负电压或者0电压" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="395" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
