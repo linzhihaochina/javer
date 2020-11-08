@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-08T03:12:11.221Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="T0HM8xODd0De7ZcJtmCX" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-08T03:14:22.168Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="tYYmkbrWbYeQXMokRrC7" version="13.9.2" type="github">
   <diagram id="xYSU5zKOpEXObKujc5n0" name="第 1 页">
     <mxGraphModel dx="1298" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,10 +43,10 @@
             <mxPoint x="440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-1" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-10" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="340" y="130" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-12" value="或门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -94,10 +94,10 @@
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-21" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="300" y="480" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-22" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="340" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-23" value="或门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -109,7 +109,7 @@
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-25" value="有两个输出端，但是我们只要一个，而且当都输入1的时候，结果还是1而不是0与预期的不一样，所以还要改进" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="450" y="190" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-26" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-27" value="如果我们在这里放一个或门，那么当输入端都是1的时候，前面的或门必然输出1，这时候会导致我们放的这个或门结果一定是1，这是不符合预期的" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -154,10 +154,10 @@
             <mxPoint x="420" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-35" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-36" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-36" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="320" y="600" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-37" value="或门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -166,7 +166,7 @@
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-38" value="与门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="620" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-41" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-41" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="490" y="640" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-42" value="如果我们在这里放一个与门，那么当输入端都是1的时候，虽然前面的或门必然输出1，但是与门的条件是两端都输入1才为1，所以我们可以控制另一段使其为0这样结果就会是0了" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -213,13 +213,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-50" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=or;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="265" y="950" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zQl8RCaZIkxgo1g_I3Rm-51" target="zQl8RCaZIkxgo1g_I3Rm-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-51" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-51" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="305" y="830" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-52" value="或门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -228,7 +228,7 @@
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-53" value="与门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="335" y="850" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-54" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.logic_gate;operation=and;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="490" y="900" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="zQl8RCaZIkxgo1g_I3Rm-56" target="zQl8RCaZIkxgo1g_I3Rm-54">
@@ -239,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-56" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;negating=1;" vertex="1" parent="1">
+        <mxCell id="zQl8RCaZIkxgo1g_I3Rm-56" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.logic_gates.buffer2;negating=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="390" y="830" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQl8RCaZIkxgo1g_I3Rm-60" value="或门" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
